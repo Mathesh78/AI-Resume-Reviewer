@@ -1,0 +1,17 @@
+# Runtime files
+uploads/
+generated_reports/
+
+# Vector database
+vector_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+
+# Gradio
+.gradio/
